@@ -1,7 +1,0 @@
-1. task1: theory revise krk detailed notes bnane hai and commands explore krni hai + yaad ho jaaye toh best hai.
-2. task2: yeh toh saara hi krna hai start se dubara... pta nhi kya kya toh krk submit kr diya hai. sb upar se gya hai. ek ek terminology and tech pdna hai in detail. usk baad saara task khud se krne ka try krna hai again.
-3. day5 k task1 mein step2 yeh chmod waali cheez.
-	check 1 src folder 
-4. javascript
-5. sb kuch pdna hai in detail from start.
-
