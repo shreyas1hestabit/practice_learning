@@ -1,5 +1,6 @@
 ### This repo contains all the codes which i did while practicing the concepts used in the training bootcamp.
-
+### this doc contains all the core tech stack. for concepts and deeper understanding of the projects refer: 
+[concepts](CONCEPTS.md)
 <h2>ALL THE TECH WE HAVE USED SO FAR IN BOOTCAMP</h2>
 <h3>WEEK1</h3>
 <ol>
@@ -44,4 +45,12 @@
 <li>Bull/BUllMQ</li>
 <li>swagger</li>
 <li>PM2</li>
+</ol>
+<h4>WEEK5</h4>
+<ol>
+<li>docker</li>
+<li>docker compose</li>
+<li>nginx</li>
+<li>mkcert</li>
+<li>open SSL</li>
 </ol>

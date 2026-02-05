@@ -1,0 +1,266 @@
+### this file contains all the concepts we have used so far in training bootcamp.
+### will help in revising the techstack while going through its concepts
+
+<h4>WEEK1</h4>
+- shell navigation
+- env variables
+- path resolution
+- binary inspection
+- node runtime internals
+- os introspection
+- file system inspection
+- buffers
+- streams
+- memory usage measurment
+- execution time benchmarking
+- process info
+- system metrics
+- File streaming
+- Large file processing
+- Command-line arguments
+- Process flags
+- Asynchronous programming
+- Promises
+- Promise.all
+- Worker Threads
+- Concurrency control
+- CPU-bound vs IO-bound tasks
+- Performance benchmarking
+- JSON output generation
+- Commit history
+- Git reset
+- Git revert
+- Git cherry-pick
+- Git bisect
+- Git stash
+- Branching
+- Merging
+- Merge conflicts
+- Conflict resolution
+- Detached HEAD
+- Commit graph analysis
+- DNS resolution
+- Network routing
+- HTTP methods
+- Request–response lifecycle
+- Headers
+- Authorization headers
+- User-Agent
+- Pagination
+- Caching
+- ETag
+- Conditional requests
+- HTTP status codes
+- Artificial latency
+- API inspection
+- Automation scripts
+- Exit codes
+- File validation
+- JSON validation
+- Logging
+- Linting
+- Code formatting
+- Git hooks
+- Pre-commit checks
+- Build artifacts
+- Compression (tar)
+- Checksums (SHA)
+- Scheduled jobs
+- CI mindset
+<h4>WEEK2</h4>
+- Semantic HTML
+- Document structure
+- Metadata
+- Forms
+- Native validation
+- Accessibility
+- ARIA attributes
+- Alt text
+- Tab index
+- Media embedding
+- Canvas
+- CSS selectors
+- Specificity
+- Box model
+- Units (px, %, rem, vw, vh)
+- Flexbox
+- CSS Grid
+- Responsive design
+- Mobile-first approach
+- Media queries
+- Layout replication
+- UI comparison
+- let / const
+- Arrow functions
+- Arrays
+- Objects
+- map
+- filter
+- reduce
+- Destructuring
+- Spread operator
+- DOM selection
+- DOM manipulation
+- Event listeners
+- State handling
+- UI interaction logic
+- Modular functions
+- Debugging
+- Breakpoints
+- Watch expressions
+- Debounce
+- Throttle
+- Utility functions
+- Data persistence
+- CRUD operations
+- try/catch
+- Error logging
+- Client-side state
+- API consumption
+- Async JS
+- JSON parsing
+- Dynamic rendering
+- Search filtering
+- Sorting algorithms
+- Responsive UI
+- Component-like structure
+- DOM-driven rendering
+- Project structuring
+<h4>WEEK3</h4>
+- Utility classes
+- Layout scaffolding
+- Dashboard layout
+- Header component
+- Sidebar component
+- Global layout structure
+- Reusable components
+- Atomic components
+- UI primitives
+- Props API
+- Component abstraction
+- UI documentation
+- Shared UI library
+- Multi-page routing
+- Nested routes
+- Nested layouts
+- Shared navigation
+- Route hierarchy
+- Layout composition
+- Server vs Client boundaries
+- Responsive layouts
+- next/image
+- Image optimization
+- SEO tags
+- Metadata handling
+- Typography optimization
+- Animations
+- Framer Motion
+- Page composition
+- Component reuse
+- UI state handling
+- Table layouts
+- Form layouts
+- Mobile responsiveness
+- Scalable folder structure
+- UI-only architecture
+<h4>WEEK4</h4>
+- Node internals
+- Event loop phases
+- Node clustering
+- Express bootstrapping
+- App loader
+- Database loader
+- Config loader
+- Environment variables
+- Structured logging
+- Startup lifecycle
+- Logger abstraction
+- Schema design
+- Embedded documents
+- Referenced documents
+- Mongoose hooks
+- Pre-save hooks
+- Virtual fields
+- Indexing
+- TTL indexes
+- Compound indexes
+- Sparse indexes
+- Pagination
+- Cursor-based pagination
+- Repository pattern
+- CRUD abstraction
+- REST principles
+- Controller–Service–Repository flow
+- Dynamic filtering
+- Regex search
+- AND / OR queries
+- Sorting
+- Pagination
+- Soft delete
+- Query parsing
+- Centralized error handling
+- Typed errors
+- Error codes
+- Global error middleware
+- Input validation
+- Payload validation
+- NoSQL injection prevention
+- XSS prevention
+- Parameter pollution
+- Rate limiting
+- Security headers
+- Request sanitization
+- Global security middleware
+- Background jobs
+- Job queues
+- Retry strategies
+- Backoff
+- Worker processes
+- Correlation IDs
+- Request tracing
+- Structured logs
+- Log aggregation
+- API documentation
+- Environment configs
+- Production readiness
+<h4>WEEK5</h4>
+- docker file
+- base images
+- layer caching
+- container shell access
+- process inspection
+- disk usage
+- log inspection
+- container file system
+- docker-compose
+- multi service orchestration
+- container networking
+- service discovery
+- environment variables
+- volume mapping
+- persistent storage
+- log exposure
+- one command deployment
+- reverse proxy
+- upstream servers
+- load balancing
+- round robin strategy
+- port mapping
+- internal routing
+- service aliases
+- SSL certificates
+- self signed certificates
+- HTTPS termination
+- HTTP -> HTTPS redirect
+- Local domain mapping
+- secure headers
+- production compose files
+- compose profiles
+- secrets management
+- .env config
+- health checks
+- restart policies
+- log rotation
+- deployment scripts
+- full stack containerization
+- production readiness
