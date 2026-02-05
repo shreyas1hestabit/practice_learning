@@ -2,6 +2,7 @@
 ### will help in revising the techstack while going through its concepts
 
 <h4>WEEK1</h4>
+
 - shell navigation
 - env variables
 - path resolution
@@ -67,7 +68,9 @@
 - Checksums (SHA)
 - Scheduled jobs
 - CI mindset
+
 <h4>WEEK2</h4>
+
 - Semantic HTML
 - Document structure
 - Metadata
@@ -126,7 +129,9 @@
 - Component-like structure
 - DOM-driven rendering
 - Project structuring
+
 <h4>WEEK3</h4>
+
 - Utility classes
 - Layout scaffolding
 - Dashboard layout
@@ -163,7 +168,9 @@
 - Mobile responsiveness
 - Scalable folder structure
 - UI-only architecture
+
 <h4>WEEK4</h4>
+
 - Node internals
 - Event loop phases
 - Node clustering
@@ -223,7 +230,9 @@
 - API documentation
 - Environment configs
 - Production readiness
+
 <h4>WEEK5</h4>
+
 - docker file
 - base images
 - layer caching
